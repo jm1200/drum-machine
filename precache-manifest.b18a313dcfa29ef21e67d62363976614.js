@@ -4,8 +4,8 @@ self.__precacheManifest = [
     "url": "/drum-machine/static/media/CYCdh_ElecK01-ClHat01.075aaf26.wav"
   },
   {
-    "revision": "6fc3cc5171aecd5db351",
-    "url": "/drum-machine/static/css/main.f25b26ad.chunk.css"
+    "revision": "3671d33947d591bf1772",
+    "url": "/drum-machine/static/css/main.1645e08d.chunk.css"
   },
   {
     "revision": "b7992e708002e6098eb0",
@@ -28,8 +28,8 @@ self.__precacheManifest = [
     "url": "/drum-machine/static/media/CYCdh_AcouKick-01.d929c19d.wav"
   },
   {
-    "revision": "6fc3cc5171aecd5db351",
-    "url": "/drum-machine/static/js/main.6fc3cc51.chunk.js"
+    "revision": "3671d33947d591bf1772",
+    "url": "/drum-machine/static/js/main.3671d339.chunk.js"
   },
   {
     "revision": "d2a2ba185c3e43a348a6ebe86e18256d",
@@ -52,7 +52,7 @@ self.__precacheManifest = [
     "url": "/drum-machine/static/media/CYCdh_VinylK1-Kick03.c8cf78a1.wav"
   },
   {
-    "revision": "cb31095746e674e9ba4d30b86e25f156",
+    "revision": "14d9c4f38eb56d1767036690df2dfd02",
     "url": "/drum-machine/index.html"
   }
 ];
